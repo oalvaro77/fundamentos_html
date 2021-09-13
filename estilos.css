@@ -1,0 +1,64 @@
+h1{
+    color: blue;
+    font-family: cursive;
+}
+
+#titulo{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.negrita{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#cabecera{
+    background-color: red;
+    width: 100vw;
+    height: 35vh;
+    overflow: hidden;
+}
+
+#cuerpo{
+    background-color: royalblue;
+    width: 100whds;
+    height: 35vh;
+}
+
+
+body{
+    margin: 0px;
+}
+
+
+#ContTexto{
+    background-color: chartreuse;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#Titulo{
+    font-family: Arial;
+    font-size: 2rem;
+
+}
+
+#Subtitulo{
+    font-family: Arial;
+    font-size: 1rem;
+    font-weight:lighter
+
+}
+#ContImagen{
+    background-color: darkgoldenrod;
+    width: 50%;
+    height: 100%;
+    float: right;
+    font-weight: bold;
+
+}
+
