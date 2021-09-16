@@ -1,0 +1,24 @@
+
+#image{
+    text-align: center;
+}
+
+#timezone{
+    text-align: center;
+}
+
+#checkbox{
+    text-align: center;
+}
+
+#Registro{
+    margin-left: 5rem;
+}
+#boton{
+    margin-left: 5rem;
+    background-color: rgb(39, 107, 185);
+    color: white;
+    height: 4em;
+    width: 8em;
+    cursor: pointer;
+}
